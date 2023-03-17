@@ -74,6 +74,11 @@ The other link instead sorts books based by subject, for example, <b>operating s
 # Lastly..
 I hope that these repositories will be helpful for you as you learn more about the terminal and Linux. Good luck, and happy learning :3
 
-<br>
+Fun fact, you can read the source code of this file so you can see how it is formatted behind the scenes. Go [here](https://github.com/Sakawopzu/useful-repo-collection/blob/main/README.md) and click the `Display the source blob` button to see the code.
+
+
+![Bash Picture](images/sourceblob.png?raw=true)
+
+Alright, that's all! I may add more repositories, so stay tuned.
 
 <img src="images/kiana-cookie.gif" alt="Kiana Cookie" style="max-width: 25%;">

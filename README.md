@@ -1,6 +1,6 @@
 # Useful Repositories for Learning Terminal and Linux
 ## Introduction
-Hey there! Congratulations on taking the first step towards learning the terminal and Linux! (And welcome home!)<br>As promised, here are some links to repositories that will be useful for you as you continue this journey. :D 
+Hey there! Congratulations on taking the first step towards learning the terminal and Linux! <br>Here are some links to repositories that will be useful for you as you continue this journey. :D 
 
 <img src="images/kiana.png" alt="Kiana Image" style="max-width: 20%;">
 

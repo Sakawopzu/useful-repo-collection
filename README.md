@@ -31,7 +31,7 @@ The website looks like this:
 
 This repository provides a complete guide to Bash scripting, with examples and explanations of various commands, operations and concepts.
 
-<b>"Why would I want this?"</b> Simple, it's because whenever you use your Ubuntu terminal, you are typing Bash commands. Need I say more?
+<b>"Why would I want this?"</b> Simple, it's because whenever you use your Linux terminal, you are likely typing Bash commands. Need I say more?
 
 ![Bash Picture](images/bash.png?raw=true)
 
